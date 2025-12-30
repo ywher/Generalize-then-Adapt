@@ -14,3 +14,7 @@ Extensive experiments on AWI-Seg and multiple real-world benchmarks demonstrate 
 
 Qualitative examples from AWI-Seg. **Top**: RGB images; **Bottom**: Semantic segmentation ground truth. The dataset covers diverse adverse conditions including fog, rain, snow, dawn/dusk, glare, and night.
 
+![Pixel-wise Class Distribution](figures/semantic_dist.png)
+
+Pixel-wise class distribution in AWI-Seg, illustrating the long-tailed nature of the dataset.
+
